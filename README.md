@@ -17,8 +17,6 @@
   <img align="center" alt="Luis-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
-
-  <img align="right" alt="luis-gif" height="150" style="border-radius:50px;" src="https://static.imgs.app/content/assetz/uploads/2017/10/gif-do-garoto-menino-dando-joinha.gif">
 </div>
   
   ##
