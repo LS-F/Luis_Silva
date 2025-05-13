@@ -1,8 +1,8 @@
 ## Olá, Seja bem-vindo! ✌️😬
   
  
- 📚 | Estudante do curso Sistema de Informação; <br>
- 💻 | Desenvolvendo habilidades para atuar na área de Back-End; <br>
+ 📚 | Tentando aprender a programar; <br>
+ 💻 | print("Hello, World!"); <br>
  🕹️ | Fã de jogos de videogame; <br>
  
 
@@ -13,9 +13,9 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Luis-JAVASCRIPT" height="30" width="75" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Luis-HTML5" height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Luis-CSS3" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Luis-FLUTTER" height="30" width="75" src="https://img.shields.io/badge/FLUTTER-323330?style=for-the-badge&logo=flutter&logoColor=F7DF1E">
+  <img align="center" alt="Luis-DART" height="30" width="60" src="https://img.shields.io/badge/DART-239120?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Luis-ADVPL" height="30" width="60" src="https://img.shields.io/badge/ADVPL-239120?&style=for-the-badge&logo=advpl&logoColor=white">
   
 </div>
   
@@ -24,7 +24,6 @@
   <div>
      
   <a href="https://www.linkedin.com/in/luis-fernando-da-silva-193179114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/_lf_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 
   
   
