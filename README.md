@@ -13,6 +13,10 @@
 </div>
 
   <div style="display: inline_block"><br>
+  <img align="center" alt="Luis-HTML" height="30" width="75" src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=F7DF1E">
+  <img align="center" alt="Luis-CSS" height="30" width="75" src="https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=F7DF1E">
+  <img align="center" alt="Luis-JAVASCRIPT" height="30" width="75" src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=js&logoColor=F7DF1E">
+  <img align="center" alt="Luis-NODE.JS" height="30" width="75" src="https://img.shields.io/badge/NODE.JS-323330?style=for-the-badge&logo=node&logoColor=F7DF1E">
   <img align="center" alt="Luis-FLUTTER" height="30" width="75" src="https://img.shields.io/badge/FLUTTER-323330?style=for-the-badge&logo=flutter&logoColor=F7DF1E">
   <img align="center" alt="Luis-DART" height="30" width="60" src="https://img.shields.io/badge/DART-239120?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="Luis-ADVPL" height="30" width="60" src="https://img.shields.io/badge/ADVPL-239120?&style=for-the-badge&logo=advpl&logoColor=white">
